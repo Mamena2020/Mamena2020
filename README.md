@@ -1,17 +1,17 @@
-### Upline: songwriters app
+### Upline: Songwriters App
 #Build with flutter
 <p>
    Upline is an application specifically designed for songwriters who want to express their musical creativity easily and comfortably. This application comes with features that help in writing and recording songs.
 </p>
 
-Features:
+⚡ Features:
    - 🎙️  Voice Record.
    - 🎛️  Loopers.
-   - ✍🏻  Note pin & lyrics
+   - ✍🏻  Note pin & lyrics.
    - 🎶  Multiple Track.
    -  ♫  Audio Packs & import.
-   - 🔊  Sound Effects (Pitch shifter, Reverb, Noise reduction etc..)
-   - 📁  Export Audio mix.
+   - 🔊  Sound Effects (Pitch shifter, Reverb, Noise reduction etc..).
+   - 📁  Export Audio mix (wav/mp3).
 <a target="_blank" href='https://play.google.com/store/apps/details?id=com.mamena.upline'>
 <p align="center">
 <img src="/upline.png" height="400px">
