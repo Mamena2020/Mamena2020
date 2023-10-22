@@ -12,12 +12,12 @@ Features:
    -  ♫  Audio Packs & import.
    - 🔊  Sound Effects
    - 📁  Export Audio mix.
-<a href='https://play.google.com/store/apps/details?id=com.mamena.upline'>
+<a target="_blank" href='https://play.google.com/store/apps/details?id=com.mamena.upline'>
 <p align="center">
 <img src="/upline.png" height="400px">
 </p>
 </a>
-<a href='https://play.google.com/store/apps/details?id=com.mamena.upline'>
+<a target="_blank" href='https://play.google.com/store/apps/details?id=com.mamena.upline'>
    <p align="center">
    <img src="/playstore.png" height="50px">
    </p>
