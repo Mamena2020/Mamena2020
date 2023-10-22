@@ -10,7 +10,7 @@ Features:
    - ✍🏻  Note pin & lyrics
    - 🎶  Multiple Track.
    -  ♫  Audio Packs & import.
-   - 🔊  Sound Effects
+   - 🔊  Sound Effects (Pitch shifter, Reverb, Noise reduction etc..)
    - 📁  Export Audio mix.
 <a target="_blank" href='https://play.google.com/store/apps/details?id=com.mamena.upline'>
 <p align="center">
