@@ -1,5 +1,5 @@
 ### Upline: Songwriters App
-#Build with Flutter
+🚀 Build with Flutter
 <p>
    Upline is an application specifically designed for songwriters who want to express their musical creativity easily and comfortably. This application comes with features that help in writing and recording songs.
 </p>
