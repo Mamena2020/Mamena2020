@@ -14,7 +14,7 @@
    - 📁  Export Audio mix (wav/mp3).
 <a target="_blank" href='https://play.google.com/store/apps/details?id=com.mamena.upline'>
 <p align="center">
-<img src="/upline.png" height="400px">
+<img src="/upline.png" ">
 </p>
 </a>
 <a target="_blank" href='https://play.google.com/store/apps/details?id=com.mamena.upline'>
