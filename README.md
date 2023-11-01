@@ -6,7 +6,7 @@
 </p>
 🚀 Build with Flutter
 
-<a href="https://github.com/Mamena2020/upline-privacypolicy/blob/main/packages.md"> 📚 Upline Packages </a><br>
+<a href="https://github.com/Mamena2020/upline-privacypolicy/blob/main/packages.md"> 📚 Flutter Packages </a><br>
 <a href="https://github.com/Mamena2020/fireme"> 🛠️ Backend Boilerplate </a>
 
 
