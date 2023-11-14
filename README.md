@@ -18,16 +18,20 @@
    -  ♫  Audio Packs & import.
    - 🔊  Sound Effects (Pitch shifter, Reverb, Noise reduction etc..).
    - 📁  Export Audio mix (wav/mp3).
-<a target="_blank" href='https://play.google.com/store/apps/details?id=com.mamena.upline'>
 <p align="center">
-<img src="/upline.png" ">
+     <img src="/upline4A.png" ">
 </p>
-</a>
-<a target="_blank" href='https://play.google.com/store/apps/details?id=com.mamena.upline'>
-   <p align="center">
-   <img src="/playstore.png" height="50px">
-   </p>
-</a>
+
+<div align="center">
+
+   [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+      alt='Get it on Google Play'
+      height="80">](https://play.google.com/store/apps/details?id=com.mamena.upline)
+   [<img src="https://raw.githubusercontent.com/deckerst/common/main/assets/amazon-appstore-badge-english-black.png"
+      alt='Get it on Amazon Appstore'
+      height="80">](https://www.amazon.com/gp/product/B0CLRDRKL5)
+
+</div>
 
 
 
